@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akshat Sharma</h1>
-<h3 align="center">A Passionate FrontEnd Developer From India</h3>
+<h3 align="center">A Passionate FullStack Developer From India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on React.<br>👯 I’m looking to collaborate on Front-End Project.<br>🤝 I’m looking for help with TypeScript<br>🌱 <br>💬 Ask me anything at webdevakshat@gmail.com<br>
+🔭 I’m currently working on MERN.<br>👯 I’m looking to collaborate on Full Stack Project.<br>🤝🌱 <br>💬 Ask me anything at webdevakshat@gmail.com<br>
 
 
 ## 🌐 Socials:
